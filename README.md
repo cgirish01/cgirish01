@@ -117,7 +117,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <!--Github Progess bar-->
-
+<!---
 ## Quick Overview 📝
     
 <a href="https://github.com/cgirish01/github-readme-stats">
@@ -127,7 +127,7 @@ but also gives you various benefits which can improve the quality of your life. 
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cgirish01&layout=compact&theme=radical" />
 </a>
-
+-->
 
 
 
