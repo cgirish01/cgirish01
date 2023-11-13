@@ -35,9 +35,9 @@
 
 
 ## About Me ✍
- 
- I m <b> Girish Choudhary</b>, a pursuing <b>Computer Science Engineer</b> Currently Head Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
+
+ I am <b> Girish Choudhary </b>, a dynamic <b> Software Engineer </b> with expertise in Python, Django, React, JavaScript, and a range of cutting-edge technologies. I've demonstrated my prowess at esteemed organizations like Qure.ai, where I led the development of streamlined software deployment and contributed to core product enhancements. As a Software Engineer Apprentice at 3Pillar Global, I improved user experiences and drove a 37% increase in website traffic. During my internship at LinuxWorld, I combined Machine Learning and DevOps to create innovative solutions. My achievements include Red Hat and Google Cloud certifications, as well as distinctions in mathematics competitions. I'm driven by a passion for innovation and excellence in the tech world.
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <img align='left' src='https://github.com/cgirish01/cgirish01/blob/main/assets/about.png' width='250"'>
 
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following.
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
