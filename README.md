@@ -157,10 +157,6 @@ but also gives you various benefits which can improve the quality of your life. 
 <br/>  
 
 
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/cgirish01/count.svg" />
-</p>
 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
